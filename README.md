@@ -81,7 +81,7 @@ The cleaned SQL dataset was imported into Power BI to create an interactive repo
 - Discount analysis  
 - Customer segment performance  
 
-The `.pbix` file is available as customer_behavior_dashboard.pbix
+![dashboard preview](/dashboard_screenshot.png)
 
 ---
 
